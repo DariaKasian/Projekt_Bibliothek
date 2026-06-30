@@ -23,7 +23,7 @@ public class BibliothekGUI extends JFrame {
         titelField = new JTextField(20);
         kategorieBox = new JComboBox<>(Kategorie.values());
 
-        JButton anzeigenButton = new JButton("Alle Bücher anzeigen");
+        JButton anzeigenButton = new JButton("Alle Bücher anzeigen ");
         JButton suchenButton = new JButton("Buch suchen");
         JButton hinzufuegenButton = new JButton("Buch hinzufügen");
         JButton loeschenButton = new JButton("Buch löschen");

@@ -56,7 +56,7 @@ public class Bibliothek {
 
     public void buchAuswaehlenUndInKorbLegen(Scanner sc) {
         if (bucher_List.isEmpty()) {
-            System.out.println("Keine Bücher vorhanden.");
+            System.out.println("Keine Bücher vorhanden. ");
             return;
         }
 

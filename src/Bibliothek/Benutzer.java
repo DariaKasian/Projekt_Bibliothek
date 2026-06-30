@@ -15,7 +15,7 @@ public class Benutzer {
         this.geburstdatum_B = geburstdatum_B;
         this.id_B = naechsteId;
         naechsteId++;
-    }
+     }
 
     public String getName_B() {
         return name_B;
