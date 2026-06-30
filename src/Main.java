@@ -19,7 +19,7 @@ public class Main {
 
         bibliothek.buchHinzufuegen(
 
-                new Buch("1-Die kleine Raupe Nimmersatt", Status.VERFUEGBAR, Kategorie.KINDERBUCH),
+                new Buch("1-Die  kleine Raupe Nimmersatt", Status.VERFUEGBAR, Kategorie.KINDERBUCH),
                 new Buch("2-Der Grüffelo", Status.VERFUEGBAR, Kategorie.KINDERBUCH),
                 new Buch("3-Pettersson und Findus", Status.VERFUEGBAR, Kategorie.KINDERBUCH),
                 new Buch("4-Die Schule der magischen Tiere", Status.VERFUEGBAR, Kategorie.KINDERBUCH),
